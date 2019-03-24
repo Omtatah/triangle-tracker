@@ -89,7 +89,7 @@
 
 
 Link to Live Website:
-	http://Omtatah.github.io/triangle-tracker
+	http://omtatah.github.io/triangle-tracker
 
 
 #MIT License.
