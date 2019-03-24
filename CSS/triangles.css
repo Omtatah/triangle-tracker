@@ -39,11 +39,12 @@ input {
   margin-left: 300px;
   font-family: monospace;
   border-radius: 40px;
+  font-size: 14px;
   text-align: center;
   width: 30%;
   height: 40%;
   padding: 10px;
   border: 1px gray solid;
   background-color: #008CBA;} /* Green */
-  font-size: 150px;
+
 }
