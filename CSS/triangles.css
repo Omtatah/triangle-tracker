@@ -25,10 +25,18 @@ input {
   height: 40%;
   padding: 20px;
   border: 1px gray solid
-}
+  background-color: green;
+  font-size: 50px;
+ }
 .content{
   border-top-style: dotted;
   border-right-style: solid;
   border-bottom-style: dotted;
   border-left-style: solid;
+}
+.button{
+
+}
+button:hover{
+  background-color: blue;
 }
