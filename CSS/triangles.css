@@ -34,7 +34,8 @@ input:hover{
   font-family:cursive;
 }
 .content{
-  border-top-style: dotted;
+  border-radius: 00px
+  border-top-style: solid;
   border-right-style: solid;
   border-bottom-style: dotted;
   border-left-style: solid;
