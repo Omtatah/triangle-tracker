@@ -11,7 +11,7 @@
 	2.For an isosceles triangle, two sides are exactly equal.
 	3.For a scalene triangle, none of the sides is equal. However, the sum of any two sides of the triangle must be greater than the third 		  side.
 	4.Most importantly, if the sum of any two sides of the triangle is equal to or less than the third remaining side, then a triangle 		  CANNOT be formed using those values. (For example, the values 9,4 & 3 cannot form a triangle.)
-	
+
 
 
 
