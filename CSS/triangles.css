@@ -19,6 +19,22 @@ h1 {
   margin-right: 15%;
 
 }
+input:hover{
+  font-family:cursive;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.content{
+  border-radius: 00px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+}
+
 input {
   font-family: monospace;
   border-radius: 40px;
@@ -28,16 +44,5 @@ input {
   padding: 10px;
   border: 1px gray solid;
   background-color: #008CBA;} /* Green */
-  color: black;
   font-size: 50px;
- }
-input:hover{
-  font-family:cursive;
-}
-.content{
-  border-radius: 00px;
-  border-top-style: solid;
-  border-right-style: solid;
-  border-bottom-style: solid;
-  border-left-style: solid;
 }
