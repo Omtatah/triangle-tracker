@@ -1,6 +1,6 @@
 
 body {
-  background-image: url("../pictures/white-washed.jpg");
+  background-image: url("../pictures/paper.jpg");
   background-repeat: no-repeat;
   background-position: right top;
   background-attachment: fixed;
@@ -25,7 +25,6 @@ input {
   height: 40%;
   padding: 20px;
   border: 1px gray solid
-  background color: green;
 }
 .content{
   border-top-style: dotted;
