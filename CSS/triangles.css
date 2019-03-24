@@ -36,6 +36,7 @@ input:hover{
 }
 
 input {
+  margin-left: 50px;
   font-family: monospace;
   border-radius: 40px;
   text-align: center;
