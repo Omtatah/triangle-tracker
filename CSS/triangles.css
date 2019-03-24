@@ -1,6 +1,6 @@
 
 body {
-  background-image: url("../pictures/paper.jpg");
+  background-image: url("../pictures/skyscraper.jpg");
   background-repeat: no-repeat;
   background-position: right top;
   background-attachment: fixed;
@@ -20,7 +20,7 @@ h1 {
 
 }
 input {
-  font-family: cursive;
+  font-family: monospace;
   border-radius: 40px;
   text-align: center;
   width: 30%;
@@ -30,6 +30,9 @@ input {
   background-color: #4CAF50;} /* Green */
   font-size: 50px;
  }
+input:hover{
+  font-family:cursive;
+}
 .content{
   border-top-style: dotted;
   border-right-style: solid;
