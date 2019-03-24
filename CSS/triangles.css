@@ -20,6 +20,7 @@ h1 {
 
 }
 input {
+  font-family: cursive;
   border-radius: 40px;
   text-align: center;
   width: 30%;
