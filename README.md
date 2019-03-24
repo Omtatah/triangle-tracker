@@ -1,8 +1,8 @@
-#Application Name
+#Application Name.
 	Triangle-tracker
 
 
-#Brief BDD-included description of application
+#Brief BDD-included description of application.
 	Here is a triangle tracker that tracks different types of triangles based on the measurements a user feeds it.
 
 	It follows the following criteria to idntify the triangles:
@@ -50,16 +50,16 @@
 
 
 
-#Date of current version
+#Date of current version.
 	version 1.0
 
 
-#List of contributor(s)
+#List of contributor(s).
 	1. Murtallah Omtatah
 
 
 
-#Setup/Installation Requirements
+#Setup/Installation Requirements.
 	* An internet source
 	* A laptop
         *Github
@@ -73,26 +73,26 @@
 	code . (this is if Visual Studio Code is your preferred text editor)
 
 
-#Known Bugs
+#Known Bugs.
 	NO bugs identified in this application.
 
 
-#Technologies Used
+#Technologies Used.
 	HTML, CSS and JavaScript
 	A laptop
 	The internet
 
 
-#Support and contact details
+#Support and contact details.
 	Should one have a concern, issue or idea to let known to the developer, kindly contact me on
 	omtatahmurtallah@gmail.com
 
 
-Link to Live Website
-http://Omtatah.github.io/triangle-tracker
+Link to Live Website:
+	http://Omtatah.github.io/triangle-tracker
 
 
-#MIT License
+#MIT License.
 
 Copyright (c) 2019 Murtallah Omtatah
 
