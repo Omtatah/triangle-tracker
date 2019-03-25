@@ -1,5 +1,5 @@
 function triangletracker(){
-var length1 = [parseFloat(prompt('Input length1'))]
+  var length1 = [parseFloat(prompt('Input length1'))]
   var length2 = [parseFloat(prompt('Input length2'))]
   var length3 = [parseFloat(prompt('Input length3'))]
 
