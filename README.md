@@ -5,13 +5,21 @@
 #Brief BDD-included description of application.
 	Here is a triangle tracker that tracks different types of triangles based on the measurements a user feeds it.
 
-	It follows the following criteria to idntify the triangles:
+	It follows the following criteria to identify the triangles:
 
 	1.For an equilateral triangle, all sides must be equal.
 	2.For an isosceles triangle, two sides are exactly equal.
 	3.For a scalene triangle, none of the sides is equal. However, the sum of any two sides of the triangle must be greater than the third 		  side.
 	4.Most importantly, if the sum of any two sides of the triangle is equal to or less than the third remaining side, then a triangle 		  CANNOT be formed using those values. (For example, the values 9,4 & 3 cannot form a triangle.)
 
+|		Behavior								| Input  		| Output 							|
+|--------------------------:|----------:|--------------------:|
+|		All sides are equal			|	3 sides		|	Equilateral triangle|
+|--------------------------:|----------:|--------------------:|
+|		Two sides are equal			| 3 sides		|	Isosceles	triangle	|
+|--------------------------:|----------:|--------------------:|
+|		All sides are unequal		| 3 sides		|	Scalene triangle		|
+|--------------------------:|----------:|--------------------:|
 
 
 
